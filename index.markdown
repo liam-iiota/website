@@ -2,6 +2,4 @@
 layout: default
 ---
 
-<h2>Main Page</h2>
-
-Main content goes here.
+<img src="images/IIOTA - RGB.png" alt="IIOTA Logo" style="width:800px">
