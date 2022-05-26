@@ -1,15 +1,3 @@
-# Site Settings
-title: Start Jekyll
-email: email@gmail.com
-description: >
-  A guide to getting started with Jekyll.
-baseurl: ''
-url: 'http://localhost:4000'
-twitter_username: taniarascia
-github_username: taniarascia
-# Build Settings
-sass:
-  sass_dir: _sass
-include: ['_pages']
-kramdown:
-  input: GFM
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "" # the name of your site, e.g. ACME Corp.
