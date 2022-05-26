@@ -1,9 +1,7 @@
 * {
   font-family: aktiv-grotesk, sans-serif, arial;
-}
-
-html {
-  font-size: 10px;
+  color: #355182;
+  font-size: 16px;
 }
 
 .image-container {
